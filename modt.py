@@ -2,9 +2,9 @@
 import os
 import sys
 
-PSH_TEAM_KEY = "بخ 👀"
+PSH_TEAM_KEY = "キョエン 🐥"
 
-EXECUTE_FILE = ".PY_PRIVATE/20250711001323068"
+EXECUTE_FILE = ".PY_PRIVATE/20250720001323068"
 PREFIX = sys.prefix
 EXPORT_PYTHONHOME = 'export PYTHONHOME='+PREFIX
 EXPORT_PYTHON_EXECUTABLE = 'export PYTHON_EXECUTABLE='+sys.executable
@@ -1709,7 +1709,7 @@ static const char __pyx_k_id[] = "{\"id\":\"";
   static const char __pyx_k_user5[] = "user5";
   static const char __pyx_k_uuid4[] = "uuid4";
   static const char __pyx_k_write[] = "write";
-  static const char __pyx_k_Anujpy[] = "\n=====================\n\360\235\227\225\360\235\227\254    : @Anujpy";
+  static const char __pyx_k_Anujpy[] = "\n=====================\n\360\235\227\225\360\235\227\254    : @zenshinowns";
   static const char __pyx_k_Cookie[] = "Cookie";
   static const char __pyx_k_Thread[] = "Thread";
   static const char __pyx_k_accept[] = "accept";
@@ -1779,7 +1779,7 @@ static const char __pyx_k_id[] = "{\"id\":\"";
   static const char __pyx_k_rich_panel[] = "rich.panel";
   static const char __pyx_k_show_valid[] = "show_valid";
   static const char __pyx_k_user_agent[] = "user-agent";
-  static const char __pyx_k_3_ANUJ_HERE[] = " <<<<3 [ ANUJ HERE ]\n\t\t";
+  static const char __pyx_k_3_ANUJ_HERE[] = " <<<<3 [ HimuLived ]\n\t\t";
   static const char __pyx_k_Y_m_d_H_M_S[] = "%Y-%m-%d %H:%M:%S";
   static const char __pyx_k_en_CA_en_US[] = "en-CA, en-US";
   static const char __pyx_k_expiry_date[] = "expiry_date";
@@ -1807,12 +1807,12 @@ static const char __pyx_k_id[] = "{\"id\":\"";
   static const char __pyx_k_cline_in_traceback[] = "cline_in_traceback";
   static const char __pyx_k_pip_install_random[] = "pip install random";
   static const char __pyx_k_pip_install_string[] = "pip install string";
-  static const char __pyx_k_Anuj_locals_genexpr[] = "Anuj.<locals>.genexpr";
+  static const char __pyx_k_Anuj_locals_genexpr[] = "himu.<locals>.genexpr";
   static const char __pyx_k_generate_user_agent[] = "generate_user_agent";
   static const char __pyx_k_login_attempt_count[] = "login_attempt_count";
   static const char __pyx_k_sendMessage_chat_id[] = "/sendMessage?chat_id=";
   static const char __pyx_k_show_developer_info[] = "show_developer_info";
-  static const char __pyx_k_zaid_locals_genexpr[] = "zaid.<locals>.genexpr";
+  static const char __pyx_k_zaid_locals_genexpr[] = "kikky.<locals>.genexpr";
   static const char __pyx_k_X_IG_Connection_Type[] = "X-IG-Connection-Type";
   static const char __pyx_k_lock_red_Expired_red[] = ":lock: [red]Expired[/red]";
   static const char __pyx_k_pip_install_requests[] = "pip install requests";
@@ -1830,11 +1830,11 @@ static const char __pyx_k_id[] = "{\"id\":\"";
   static const char __pyx_k_satellite_cyan_Checking_script[] = ":satellite: [cyan]Checking script validity from script...[/cyan]";
   static const char __pyx_k_2K11_RARE_PAID_VERSION_PASSWORD[] = "2K11 RARE [PAID VERSION]\nPASSWORD  IS 0\n ";
   static const char __pyx_k_alarm_clock_yellow_Current_Time[] = ":alarm_clock: [yellow]Current Time:[/yellow] ";
-  static const char __pyx_k_bold_blue_Developer_bold_blue_A[] = " [bold blue]Developer:[/bold blue] @An7jT";
+  static const char __pyx_k_bold_blue_Developer_bold_blue_A[] = " [bold blue]Developer:[/bold blue] @zenshinowns";
   static const char __pyx_k_boom_red_Error_while_fetching_e[] = ":boom: [red]Error while fetching expiry date:[/red] ";
   static const char __pyx_k_calendar_yellow_Expiry_Date_yel[] = ":calendar: [yellow]Expiry Date:[/yellow] ";
   static const char __pyx_k_hourglass_flowing_sand_bold_red[] = ":hourglass_flowing_sand: [bold red]This script has expired.[/bold red]\n:pleading_face: Please update or contact the developer.";
-  static const char __pyx_k_https_raw_githubusercontent_com[] = "https://raw.githubusercontent.com/Anuj6112008/dn/main/expire.txt";
+  static const char __pyx_k_https_raw_githubusercontent_com[] = "https://raw.githubusercontent.com/dockiyyotaka/qispartal/refs/heads/main/expire.txt";
 static const char __pyx_k_relay_header_false_render_surfa[] = "\",\"relay_header\":false,\"render_surface\":\"PROFILE\"}";
 static const char __pyx_k_unlock_green_Access_Granted_gre[] = ":unlock: [green]Access Granted[/green]";
 static const char __pyx_k_white_check_mark_bold_green_Scr[] = ":white_check_mark: [bold green]Script is valid. Welcome![/bold green] :tada:";
